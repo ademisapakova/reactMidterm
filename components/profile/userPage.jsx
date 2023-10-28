@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 
 function UserProfile() {
     const [userData, setUserData] = useState({
-        name: 'John',
-        surname: 'Doe',
-        birthday: '1990-01-01',
-        email: 'johndoe@example.com',
+        name: 'Lisa',
+        surname: 'S',
+        birthday: '1999-09-08',
+        email: 'lisa@example.com',
         password: '********',
     });
 
