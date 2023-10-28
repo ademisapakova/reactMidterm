@@ -32,7 +32,7 @@
 }
 
 .primary-menu a:hover{
-    color: #ff7200;
+    color: #ff7290;
 }
 
 .icons {
@@ -42,7 +42,7 @@
 
 .icons a {
     margin-left: 20px;
-    color: #ff7200 ;
+    color: #ff7290 ;
     text-decoration: none;
     transition: color 0.4s;
     border-radius: 3px;
@@ -50,7 +50,7 @@
 }
 .icons a:hover {
     color: white;
-    background-color: #ff7200;
+    background-color: #ff7290;
 }
 
 
